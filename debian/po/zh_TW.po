@@ -1,0 +1,33 @@
+# Chinese (Traditional) translation for memtest86+
+# Copyright (c) 2014 Anthony Wong (Debian-HK) <ypwong@gmail.com>
+# This file is distributed under the same license as the memtest86+ package.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: memtest86+\n"
+"Report-Msgid-Bugs-To: memtest86+@packages.debian.org\n"
+"POT-Creation-Date: 2009-12-02 22:23+0100\n"
+"PO-Revision-Date: 2014-03-10 23:11+0800\n"
+"Last-Translator: Anthony Wong <ypwong@gmail.com>\n"
+"Language-Team: Chinese <debian-l10n-chinese@lists.debian.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Type: boolean
+#. Description
+#: ../templates:1001
+msgid "Run lilo automatically after upgrade (if found)?"
+msgstr "如果檢測到 lilo，則在升級後自動執行？"
+
+#. Type: boolean
+#. Description
+#: ../templates:1001
+msgid ""
+"If lilo is installed and its configuration file contains the memtest86/"
+"memtest86+ image, then it should be re-run in order to allow booting the new "
+"image."
+msgstr ""
+"如果安裝了 lilo 且其設定檔中包含 memtest86/memtest86+ 鏡像，則應當重新執行它"
+"才能啟動新的鏡像。"
